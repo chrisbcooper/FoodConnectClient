@@ -1,0 +1,13 @@
+.col {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
